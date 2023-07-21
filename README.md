@@ -8,4 +8,4 @@ This application was requested by Shefira for her project, "M-City of Malang Reg
 This application contains culture, tourist destinations, and information about Malang Regency.
 
 Social Media :
-- instagram.com/firasalvabila/
+- https://instagram.com/firasalvabila_/
