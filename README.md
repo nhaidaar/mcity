@@ -6,6 +6,3 @@ M-City of Malang Regency
 
 This application was requested by Shefira for her project, "M-City of Malang Regency". 
 This application contains culture, tourist destinations, and information about Malang Regency.
-
-Social Media :
-- https://instagram.com/firasalvabila_/
